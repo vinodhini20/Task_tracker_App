@@ -104,7 +104,8 @@ VALUES
  'TODO',
  'HIGH',
  '2026-08-15 23:59:59',
-  2);
+ 2);
+
  
  AI Declaration
 
